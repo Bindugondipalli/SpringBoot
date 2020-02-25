@@ -1,0 +1,19 @@
+<%@ taglib uri="http://java.sun.com/jstl/core_rt" prefix="c"%>
+
+<jsp:include page="/header" />
+<section style="padding: 10px;min-height:400px;">
+<h2>${msg }</h2>
+<form >
+<label>select salutation:
+	<select name="salut">
+		<option></option>
+		
+		</select>
+	
+	</label>
+<label>Enter UserName: <input type="text" name="unm" /></label>
+<button>SUBMIT</button>
+</form>
+
+</section>
+<jsp:include page="/footer" />

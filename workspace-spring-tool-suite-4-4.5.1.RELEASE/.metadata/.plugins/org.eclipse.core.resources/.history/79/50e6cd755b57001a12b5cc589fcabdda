@@ -1,0 +1,9 @@
+package com.cts.swmd.controller;
+
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+@RestControllerAdvice
+public class ExceptionAdviser {
+	
+
+}

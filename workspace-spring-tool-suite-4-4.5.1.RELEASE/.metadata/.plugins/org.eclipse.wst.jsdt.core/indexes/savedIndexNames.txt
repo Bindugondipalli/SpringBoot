@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\Alchemy\Documents2\workspace-spring-tool-suite-4-4.5.1.RELEASE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3360939983.index
+3218365546.index
+376884875.index
+646063741.index
+3832335449.index
+1563900112.index
+992512483.index
+2500577179.index

@@ -1,0 +1,5 @@
+package com.cts.swmd.model;
+
+public class Department {
+
+}
